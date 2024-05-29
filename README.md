@@ -4,8 +4,9 @@
 Movie Magic combina tecnologias de ponta para proporcionar uma experiência de usuário fluida e rica em recursos.
 
 ## Índice
-| [✨ Funcionalidades](#funcionalidades) | [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas) | [📋 Pré-requisitos](#pré-requisitos) | [⚙️ Instalação](#instalacao) | [🚀 Uso](#uso) | [📸 Screenshots](#screenshots) | [🤝 Contribuindo](#contribuindo) | [📜 Licença](#licenca) |
+| [✨ Funcionalidades](#funcionalidades) | [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas) | [📋 Pré-requisitos](#pre-requisitos) | [⚙️ Instalação](#instalacao) | [🚀 Uso](#uso) | [📸 Screenshots](#screenshots) | [🤝 Contribuindo](#contribuindo) | [📜 Licença](#licenca) |
 
+<a id="funcionalidades"></a>
 ## ✨ Funcionalidades
 
 - Exibição de listas de filmes com informações detalhadas.
@@ -16,6 +17,7 @@ Movie Magic combina tecnologias de ponta para proporcionar uma experiência de u
 - Autenticação de usuários com NextAuth (GitHub, Google, e email).
 - Conexão com banco de dados PostgreSQL usando Prisma.
 
+<a id="tecnologias-utilizadas"></a>
 ## 🛠️ Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
@@ -27,6 +29,7 @@ Movie Magic combina tecnologias de ponta para proporcionar uma experiência de u
 - **Prisma**: ORM (Object-Relational Mapping) para Node.js e TypeScript, conectado ao PostgreSQL.
 - **NextAuth**: Biblioteca para autenticação em Next.js.
 
+<a id="pre-requisitos"></a>
 ## 📋 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -37,6 +40,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disso, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
+<a id="instalacao"></a>
 ## ⚙️ Instalação
 
 1. Clone o repositório:
@@ -70,6 +74,7 @@ Além disso, é bom ter um editor para trabalhar com o código como [VSCode](htt
     GOOGLE_SECRET=your_google_client_secret
     ```
 
+<a id="uso"></a>
 ## 🚀 Uso
 
 Para iniciar o servidor de desenvolvimento, execute:
@@ -84,6 +89,7 @@ yarn dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver a aplicação em funcionamento.
 
+<a id="screenshots"></a>
 ## 📸 Screenshots
 
 Adicione aqui screenshots da aplicação para demonstrar o design e as funcionalidades. Por exemplo:
@@ -94,10 +100,12 @@ Adicione aqui screenshots da aplicação para demonstrar o design e as funcional
 ![Screenshot 2](./public/screenshot2.png)
 *Tela com visualização mediante a autenticação*
 
+<a id="contribuindo"></a>
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/MonteiroCM/MovieMagic/issues) ou enviar um pull request.
 
+<a id="licenca"></a>
 ## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
