@@ -1,6 +1,7 @@
 # 📽️ Movie Magic
-![Imagem da aplicação](./blob/main/public/screenshots/ezgif-4-06d821f01c.gif)
-
+<p align="center">
+  <img src="https://github.com/MonteiroCM/MovieMagic/blob/main/public/screenshots/ezgif-4-06d821f01c.gif" alt="Imagem da aplicação">
+</p>
 Movie Magic combina tecnologias de ponta para proporcionar uma experiência de usuário fluida e rica em recursos.
 
 ## Índice
@@ -94,10 +95,10 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver a 
 
 Adicione aqui screenshots da aplicação para demonstrar o design e as funcionalidades. Por exemplo:
 
-![Screenshot 1](./blob/main/public/screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/MonteiroCM/MovieMagic/blob/main/public/screenshots/screenshot1.png.png)
 *Opções para login com GitHub e Google.*
 
-![Screenshot 2](./blob/main/public/screenshots/screenshot2.png)
+![Screenshot 2](https://github.com/MonteiroCM/MovieMagic/blob/main/public/screenshots/screenshot2.png.png)
 *Tela com visualização mediante a autenticação*
 
 <a id="contribuindo"></a>
