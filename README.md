@@ -1,5 +1,5 @@
 # 📽️ Movie Magic
-![Imagem da aplicação](./public/ezgif-4-06d821f01c.gif)
+![Imagem da aplicação](./blob/main/public/screenshots/ezgif-4-06d821f01c.gif)
 
 Movie Magic combina tecnologias de ponta para proporcionar uma experiência de usuário fluida e rica em recursos.
 
@@ -94,10 +94,10 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver a 
 
 Adicione aqui screenshots da aplicação para demonstrar o design e as funcionalidades. Por exemplo:
 
-![Screenshot 1](./public/screenshot1.png)
+![Screenshot 1](./blob/main/public/screenshots/screenshot1.png)
 *Opções para login com GitHub e Google.*
 
-![Screenshot 2](./public/screenshot2.png)
+![Screenshot 2](./blob/main/public/screenshots/screenshot2.png)
 *Tela com visualização mediante a autenticação*
 
 <a id="contribuindo"></a>
